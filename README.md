@@ -1,4 +1,4 @@
-**Hosted by [MacTweaks](www.mactweaks.net)**
+**Hosted by [MacTweaks](https://www.mactweaks.net/)**
 
 ##Built copy of artFileTool for 10.7, 10.8, 10.9, 10.10
 
