@@ -4,15 +4,19 @@
 
 Downloads have been included where there isnt one available directly from the developer
 
+--
 
 **Source**
 
 http://ctf0.deviantart.com/journal/Mountain-Lion-Mavericks-Theme-Resources-319281804
 
+--
 
 **Developer**
 
 https://github.com/alexzielenski/artFileTool
+
+--
 
 **Instructions**
 
@@ -39,6 +43,8 @@ https://github.com/alexzielenski/artFileTool
 9) Replace the default ArtFile.bin with the edited version
 
 10) Logout to see the changes
+
+--
 
 **Notes**
 
